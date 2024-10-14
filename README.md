@@ -10,21 +10,21 @@ Project Overview
 
 Features used for prediction:
 
-  Battery Power
-  RAM
-  Internal Storage
-  Display Size
-  Camera Quality
-  Processor Speed
+  Battery Power,
+  RAM,
+  Internal Storage,
+  Display Size,
+  Camera Quality,
+  Processor Speed,
   Number of Cores
 
 Technologies Used:
 
-  Python
-  Scikit-learn
-  Pandas
-  NumPy
-  Matplotlib/Seaborn (for data visualization)
+  Python,
+  Scikit-learn,
+  Pandas,
+  NumPy,
+  Matplotlib/Seaborn (for data visualization),
   Jupyter Notebook  
 
 Results
