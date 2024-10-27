@@ -1,6 +1,6 @@
 Mobile Phone Price Prediction
 
-  This project focuses on building a machine learning model to predict the price range ofmobile phones based on various features such as battery power,RAM, and storage.
+  This project focuses on building a machine learning model to predict the price range of mobile phones based on various features such as battery power,RAM, and storage.
   The model helps in categorizing mobile phones into different price segments, providing a valuable tool for users or businesses to make informed decisions.
 
 Project Overview
